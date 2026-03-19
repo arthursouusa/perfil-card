@@ -3,7 +3,8 @@
 div {
     background-color: #0C1014;
     padding: 30px;
-    width: 600px;
+    max-width: 600px;
+    width: 100%;
     margin: auto;
     border-radius: 15px;
 }
