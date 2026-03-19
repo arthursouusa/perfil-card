@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    margin: 0;
+}
+
 div {
     background-color: #0C1014;
     padding: 30px;
