@@ -43,6 +43,8 @@ a:hover {
 img {
     border-radius: 50%;
     border: 2px solid #25292E;
+    max-width: 100%;
+    height: auto;
 }
 
 #msg {
