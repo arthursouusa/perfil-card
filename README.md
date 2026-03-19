@@ -1,2 +1,2 @@
 # perfil-card
-[Abrir meu site](https://arthursouusa.github.io/perfil-card/retorno/index.html)
+[Abrir meu site](https://arthursouusa.github.io/perfil-card/index.html)
