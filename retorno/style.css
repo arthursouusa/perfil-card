@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+* {
+    box-sizing: border-box;
+}
+
 div {
     background-color: #0C1014;
     padding: 30px;
@@ -23,6 +27,7 @@ p {
     border-radius: 5px;
     padding: 10px;
     text-align: center;
+    overflow-wrap: break-word;
 }
 
 a {
